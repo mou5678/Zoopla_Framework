@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SanityTest">
+ <listeners>
+		<listener class-name="com.zoopla.listener.ZooplaListener" />
+</listeners> 	
+   <test name="Zoopla.uk" >
+      <classes>
+         <class name="zoopla.myrunner.ZooplaMyRunnerClass"/>
+      </classes>
+   </test>
+</suite>
+

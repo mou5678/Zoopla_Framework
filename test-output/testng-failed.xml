@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SanityTest]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.zoopla.listener.ZooplaListener"/>
+  </listeners>
+  <test thread-count="5" name="Zoopla.uk(failed)">
+    <classes>
+      <class name="zoopla.myrunner.ZooplaMyRunnerClass">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="runScenario" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- zoopla.myrunner.ZooplaMyRunnerClass -->
+    </classes>
+  </test> <!-- Zoopla.uk(failed) -->
+</suite> <!-- Failed suite [SanityTest] -->
