@@ -287,3 +287,17 @@
 2022-09-02 18:29:17,984 [main] INFO Mousumi Dey - User able to enter valid userName & password
 2022-09-02 18:29:18,619 [main] INFO Mousumi Dey - User able to click on login button
 2022-09-02 18:29:18,796 [main] INFO Mousumi Dey - User can verify the user information {string} on the grid
+2022-09-04 11:45:14,707 [main] INFO Mousumi Dey - User able to open a any browser
+2022-09-04 11:45:16,497 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-04 11:45:16,546 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-04 11:45:20,009 [main] INFO Mousumi Dey - User able to enter url
+2022-09-04 11:45:22,976 [main] INFO Mousumi Dey - User able to click on sign-in button
+2022-09-04 11:45:22,977 [main] INFO Mousumi Dey - User able to enter valid userName & password
+2022-09-04 11:46:41,811 [main] INFO Mousumi Dey - User able to open a any browser
+2022-09-04 11:46:42,314 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+2022-09-04 11:46:42,339 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-09-04 11:46:44,706 [main] INFO Mousumi Dey - User able to enter url
+2022-09-04 11:46:47,594 [main] INFO Mousumi Dey - User able to click on sign-in button
+2022-09-04 11:46:49,785 [main] INFO Mousumi Dey - User able to enter valid userName & password
+2022-09-04 11:46:50,151 [main] INFO Mousumi Dey - User able to click on login button
+2022-09-04 11:46:50,320 [main] INFO Mousumi Dey - User can verify the user information {string} on the grid
